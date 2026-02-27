@@ -11,3 +11,5 @@ The objective of this project is to demonstrate how data visualization and analy
 
 
 ![image alt](https://github.com/spqdot/Pizza-Sales-Performance-Dashboard-Data-Analytics-Showcase/blob/main/Fig%201.png)
+![image alt](https://github.com/spqdot/Pizza-Sales-Performance-Dashboard-Data-Analytics-Showcase/blob/main/Fig%202.png)
+![image alt](
